@@ -58,13 +58,13 @@ export default {
         <label for="exampleInputEmail1" class="form-label">Nombre</label>
         <input type="email" class="form-control" id="nombre" aria-describedby="emailHelp">
 
-        <label for="exampleInputEmail1" class="form-label">edad</label>
+        <label for="exampleInputEmail1" class="form-label">Edad</label>
         <input type="number" class="form-control" id="edad" aria-describedby="emailHelp">
 
         <label for="exampleInputEmail1" class="form-label">Semestre</label>
         <input type="number" class="form-control" id="semestre" aria-describedby="emailHelp">
 
-        <label for="exampleInputEmail1" class="form-label">carrera</label>
+        <label for="exampleInputEmail1" class="form-label">Carrera</label>
         <input type="email" class="form-control" id="carrera" aria-describedby="emailHelp">
         
         <label for="exampleInputEmail1" class="form-label">Materias agregadas</label>

@@ -7,7 +7,7 @@ import HelloWorld from './components/HelloWorld.vue'
   <header>
       <nav>
         <RouterLink to="/">Formulario</RouterLink>
-        <RouterLink to="/lista">Alumnos</RouterLink>
+        <RouterLink to="/lista">Alumno</RouterLink>
       </nav>
   </header>
 
